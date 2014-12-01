@@ -7,7 +7,7 @@
  */
 "use strict";
 
-var bcrypt = require("bcrypt");
+var bcrypt = require("bcryptjs");
 var gravatar = require("gravatar");
 var _ = require("lodash");
 
